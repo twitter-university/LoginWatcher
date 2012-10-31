@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">LoginWatcher</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Login Watcher</string>
+    <string name="device_admin_enabled">LoginWatcher enabled</string>
+    <string name="device_admin_disabled">LoginWatcher disabled</string>
+
+</resources>
